@@ -1,0 +1,10 @@
+crowd_sim
+*.o
+program
+# Visual Studio
+.vs/
+out/
+build/
+*.sln
+*.vcxproj
+*.user
